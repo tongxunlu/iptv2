@@ -1,0 +1,36 @@
+﻿港台電視31,http://219.79.33.217:9983/stream/channelid/317840209?profile=webtv-h264-vorbis-mp4
+港台電視32,http://219.79.33.217:9983/stream/channelid/1513961784?profile=webtv-h264-vorbis-mp4
+香港國際財經台,http://219.79.33.217:9983/stream/channelid/730960288?profile=webtv-h264-vorbis-mp4
+香港開電視,http://219.79.33.217:9983/stream/channelid/85224417?profile=webtv-h264-vorbis-mp4
+翡翠台,http://219.79.33.217:9983/stream/channelid/635081159?profile=webtv-h264-vorbis-mp4
+J2,http://219.79.33.217:9983/stream/channelid/1538137333?profile=webtv-h264-vorbis-mp4
+無綫新聞台,http://219.79.33.217:9983/stream/channelid/1387365373?profile=webtv-h264-vorbis-mp4
+明珠台,http://219.79.33.217:9983/stream/channelid/1995922769?profile=webtv-h264-vorbis-mp4
+無綫財經 資訊台,http://219.79.33.217:9983/stream/channelid/415817349?profile=webtv-h264-vorbis-mp4
+ViuTVsix,http://219.79.33.217:9983/stream/channelid/768122420?profile=webtv-h264-vorbis-mp4
+ViuTV,http://219.79.33.217:9983/stream/channelid/1510527192?profile=webtv-h264-vorbis-mp4
+东森财经,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17561
+三立live,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17563
+tvbs新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17564
+东森新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17565
+fashion,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17631
+abc news,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/18798
+中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296
+民视新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24959
+寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960
+大爱1,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/25493
+france 24,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/26699
+彭博新闻台,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/34184
+澳视咨询,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38476
+澳视澳门,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38478
+澳视葡文,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38522
+澳门体育,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38523
+澳视综艺,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38524
+advancement,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38533
+美国中文电视,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38534
+sbt prime,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38535
+TVB综合,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38536
+NHK JAPÃO  HD,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/31520
+bbc,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38808
+三立Inews,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38809
+
